@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PsycoManagement](https://github.com/edunickdev/PsycoManagement.git)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning and implementing in my real project **FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/edunickdev](https://github.com/edunickdev)
 
