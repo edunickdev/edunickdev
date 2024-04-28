@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/edunickdev](https://github.com/edunickdev)
 
-- 💬 Ask me about **React, Angular, Flutter**
+- 💬 Ask me about **Flutter, React, Angular in frontend and Django and FastAPI in Backend**
 
 - 📫 How to reach me **nickstark91@icloud.com**
 
