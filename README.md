@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Sarmiento</h1>
-<h3 align="center">A passionate FullStack developer from Colombia</h3>
+<h3 align="center">A passionate Software Engineer - FullStack developer from Colombia</h3>
 
 - 🔭 I’m currently working on [PsycoManagement](https://github.com/edunickdev/PsycoManagement.git)
 
