@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [PsycoManagement](https://github.com/edunickdev/PsycoManagement.git)
 
-- 🌱 I’m currently learning and implementing in my real project **FastAPI**
+- 🌱 I’m currently learning and implementing in some projects **FastAPI and DjangoRestFramerwork**
 
-- 👨‍💻 All of my projects are available at [https://github.com/edunickdev](https://github.com/edunickdev)
+- 👨‍💻 All of my projects are available at [https://github.com/edunickdev](https://github.com/edunickdev) and can see some information and screenshots in my website https//:www.el-codigo-recuerda.com
 
 - 💬 Ask me about **Flutter, React, Angular in frontend and Django and FastAPI in Backend**
 
-- 📫 How to reach me **nickstark91@icloud.com**
+- 📫 How to reach me **nickstark91@icloud.com and my Website https://www.el-codigo-recuerda.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
